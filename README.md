@@ -3,4 +3,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 The Project is a UI clone of Netflix. The website is hosted on Firebase. There is much more portions to be added to the project in the near futere which include Authentication and payments for Netflix. This is just the Main page replication.
 
 ## Hosted Link:
-netflix-clone-uno.web.app
+https://netflix-clone-uno.firebaseapp.com/
