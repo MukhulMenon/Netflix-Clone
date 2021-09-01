@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 The Project is a clone of Netflix. The website is hosted on Firebase. 
 The website has features such as Payment management as well as subsciption management using Stripe.
 
-##Features : 
+## Features : 
 ### 1 - Login - Authentication using Firestone
 #### 1.1 - Auto login 
 ### 2 - Movie database - Using The Movie Database API
